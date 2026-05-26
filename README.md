@@ -1,4 +1,4 @@
-# my_first_project
+## my_first_project
 this is my first program
 ## technologies
 -CSS
