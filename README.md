@@ -3,5 +3,5 @@ this is my first program
 ## technologies
 -CSS
 -HTML
-##AUTHOR :
+## AUTHOR :
 MOHAMED CHAHINE DROUICHE
